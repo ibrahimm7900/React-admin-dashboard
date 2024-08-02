@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "react-router-dom": "^6.24.0"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fullcalendar/core": "^6.1.14",
+    "@fullcalendar/interaction": "^6.1.14",
+    "@fullcalendar/react": "^6.1.14",
+    "@mui/icons-material": "^5.15.21",
+    "@mui/material": "^5.15.21",
+    "@mui/x-data-grid": "^7.9.0",
+    "@nivo/bar": "^0.87.0",
+    "@nivo/geo": "^0.87.0",
+    "@nivo/line": "^0.87.0",
+    "@nivo/pie": "^0.87.0",
+    "formik": "^2.4.6",
+    "fullcalendar": "^6.1.14",
+    "react-pro-sidebar": "^1.1.0",
+    "yup": "^1.4.0"
+  }
+}
