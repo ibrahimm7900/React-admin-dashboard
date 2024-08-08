@@ -26,11 +26,15 @@ This repository contains a comprehensive and responsive admin dashboard built us
 - Authentication: Implementing secure user authentication and authorization mechanisms.
 
 ## Future Improvements
-Backend Integration: Connect the dashboard with a backend service for real-time data fetching and updates.
+Backend Integration: Connect the dashboard with a backend service for fetching and updating real-time data.
 Testing: Add unit and integration tests using Jest and React Testing Library.
 Performance Optimization: Improve performance by implementing code splitting and lazy loading.
 
 
+
+
+
+https://github.com/user-attachments/assets/0e002ffe-d33e-4a60-b75e-1f3058d422ef
 
 
 
